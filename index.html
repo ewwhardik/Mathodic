@@ -963,12 +963,6 @@ function highlightNoteAt(idx){
   svg.appendChild(halo);
 }
 
-/* ═══════════════════════════════════════════════
-   8. 3D WAVE VISUALIZER
-   perspective-projected ribbon of rows receding
-   into depth, painter's-algorithm draw order,
-   Chaikin-smoothed curves for a clean analog look
-═══════════════════════════════════════════════ */
 const waveCanvas=document.getElementById('waveCanvas');
 const wctx=waveCanvas.getContext('2d');
 let ww=0,wh=0,dpr=1;

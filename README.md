@@ -111,7 +111,7 @@ Give it a ⭐
 
 It won't improve your grades...
 
-...but it'll improve the repository.
+...but it'll improve the repository :).
 
 ---
 

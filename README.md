@@ -83,18 +83,6 @@ Because someone looked at algebra and thought:
 
 ---
 
-## ⚡ Tech Stack
-
-| Category | Tech |
-|----------|------|
-| Language | C++17 |
-| Graphics | OpenGL |
-| Windowing | GLFW |
-| Audio | Custom Synth Engine |
-| Math Parser | Custom Deterministic Parser |
-
----
-
 ## 🎯 Philosophy
 
 - ✅ Same equation = Same music

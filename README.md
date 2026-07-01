@@ -6,9 +6,6 @@
 
 Turn numbers into melodies. Because apparently math had rhythm all along.
 
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus)
-![OpenGL](https://img.shields.io/badge/OpenGL-Real--Time-5586A4?style=for-the-badge&logo=opengl)
 ![Status](https://img.shields.io/badge/Status-Actually%20Works-success?style=for-the-badge)
 
 </div>
